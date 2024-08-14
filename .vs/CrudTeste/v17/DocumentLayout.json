@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CrudTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|d:\\crudteste\\crudteste\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|d:\\crudteste\\crudteste\\dtos\\cadastrousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\dtos\\cadastrousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|d:\\crudteste\\crudteste\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|d:\\crudteste\\crudteste\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|d:\\crudteste\\crudteste\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47550140-CA64-4D59-9A2E-39D1F0D55545}|CrudTeste\\CrudTeste.csproj|solutionrelative:crudteste\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroUsuarioDTO.cs",
+              "DocumentMoniker": "D:\\CrudTeste\\CrudTeste\\DTOs\\CadastroUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\DTOs\\CadastroUsuarioDTO.cs",
+              "ToolTip": "D:\\CrudTeste\\CrudTeste\\DTOs\\CadastroUsuarioDTO.cs",
+              "RelativeToolTip": "CrudTeste\\DTOs\\CadastroUsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:16:00.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\CrudTeste\\CrudTeste\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\CrudTeste\\CrudTeste\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CrudTeste\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:57:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\CrudTeste\\CrudTeste\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\CrudTeste\\CrudTeste\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "CrudTeste\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:47:25.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CrudTeste\\CrudTeste\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\CrudTeste\\CrudTeste\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CrudTeste\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:58:33.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\CrudTeste\\CrudTeste\\Startup.cs",
+              "RelativeDocumentMoniker": "CrudTeste\\Startup.cs",
+              "ToolTip": "D:\\CrudTeste\\CrudTeste\\Startup.cs",
+              "RelativeToolTip": "CrudTeste\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T23:56:04.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
